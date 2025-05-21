@@ -1,4 +1,4 @@
-Link: https://6920f6a6.thorngamara-personal-portfolio.pages.dev/
+Link Demo: https://6920f6a6.thorngamara-personal-portfolio.pages.dev/
 
 # Portfolio Website
 ## Overview
